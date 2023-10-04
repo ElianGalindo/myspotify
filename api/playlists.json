@@ -1,0 +1,547 @@
+{
+  "playlists": {
+    "totalCount": 165,
+    "items": [
+      {
+        "data": {
+          "uri": "spotify:playlist:37i9dQZEVXbMDoHDwVN2tF",
+          "name": "Top 50: Global",
+          "description": "Tu actualización diaria de las canciones más escuchadas ahora mismo en Global.",
+          "images": {
+            "items": [
+              {
+                "sources": [
+                  {
+                    "url": "https://charts-images.scdn.co/assets/locale_en/regional/daily/region_global_default.jpg",
+                    "width": null,
+                    "height": null
+                  }
+                ]
+              }
+            ]
+          },
+          "owner": {
+            "name": "Spotify",
+            "uri": "spotify:user:spotify",
+            "username": "spotify"
+          }
+        }
+      },
+      {
+        "data": {
+          "uri": "spotify:playlist:37i9dQZF1DX2sQHbtx0sdt",
+          "name": "Global Hip-Hop",
+          "description": "New and trending hip-hop from around the world. Cover: Morad",
+          "images": {
+            "items": [
+              {
+                "sources": [
+                  {
+                    "url": "https://i.scdn.co/image/ab67706f000000021798bfb37cfc817e0a52f2c4",
+                    "width": null,
+                    "height": null
+                  }
+                ]
+              }
+            ]
+          },
+          "owner": {
+            "name": "Spotify",
+            "uri": "spotify:user:spotify",
+            "username": "spotify"
+          }
+        }
+      },
+      {
+        "data": {
+          "uri": "spotify:playlist:37i9dQZEVXbLiRSasKsNU9",
+          "name": "Los 50 más virales: Global",
+          "description": "Tu actualización diaria de las canciones más virales en Global.",
+          "images": {
+            "items": [
+              {
+                "sources": [
+                  {
+                    "url": "https://charts-images.scdn.co/assets/locale_en/viral/daily/region_global_default.jpg",
+                    "width": null,
+                    "height": null
+                  }
+                ]
+              }
+            ]
+          },
+          "owner": {
+            "name": "Spotify",
+            "uri": "spotify:user:spotify",
+            "username": "spotify"
+          }
+        }
+      },
+      {
+        "data": {
+          "uri": "spotify:playlist:37i9dQZEVXbLRQDuF5jeBp",
+          "name": "Top 50: Estados Unidos",
+          "description": "Tu actualización diaria de las canciones más escuchadas ahora mismo en Estados Unidos.",
+          "images": {
+            "items": [
+              {
+                "sources": [
+                  {
+                    "url": "https://charts-images.scdn.co/assets/locale_en/regional/daily/region_us_default.jpg",
+                    "width": null,
+                    "height": null
+                  }
+                ]
+              }
+            ]
+          },
+          "owner": {
+            "name": "Spotify",
+            "uri": "spotify:user:spotify",
+            "username": "spotify"
+          }
+        }
+      },
+      {
+        "data": {
+          "uri": "spotify:playlist:3IsxzDS04BvejFJcQ0iVyW",
+          "name": "Top 100: Global",
+          "description": "",
+          "images": {
+            "items": [
+              {
+                "sources": [
+                  {
+                    "url": "https://i.scdn.co/image/ab67706c0000da84334e9fa6b97a27f2acc07be7",
+                    "width": null,
+                    "height": null
+                  }
+                ]
+              }
+            ]
+          },
+          "owner": {
+            "name": "Radar",
+            "uri": "spotify:user:4mpi68xfuac3mv28sgxehm7o0",
+            "username": "4mpi68xfuac3mv28sgxehm7o0"
+          }
+        }
+      },
+      {
+        "data": {
+          "uri": "spotify:playlist:37i9dQZEVXbO3qyFxbkOE1",
+          "name": "Top 50: México",
+          "description": "Tu actualización diaria de las canciones más escuchadas ahora mismo en México.",
+          "images": {
+            "items": [
+              {
+                "sources": [
+                  {
+                    "url": "https://charts-images.scdn.co/assets/locale_en/regional/daily/region_mx_default.jpg",
+                    "width": null,
+                    "height": null
+                  }
+                ]
+              }
+            ]
+          },
+          "owner": {
+            "name": "Spotify",
+            "uri": "spotify:user:spotify",
+            "username": "spotify"
+          }
+        }
+      },
+      {
+        "data": {
+          "uri": "spotify:playlist:37i9dQZF1DWUxHPh2rEiHr",
+          "name": "Global X",
+          "description": "Discover rhythmic crossover hits from cultures around the world. Cover: Leigh Anne & Ayra Starr",
+          "images": {
+            "items": [
+              {
+                "sources": [
+                  {
+                    "url": "https://i.scdn.co/image/ab67706f000000028dfa05eb71523eb02c0fca17",
+                    "width": null,
+                    "height": null
+                  }
+                ]
+              }
+            ]
+          },
+          "owner": {
+            "name": "Spotify",
+            "uri": "spotify:user:spotify",
+            "username": "spotify"
+          }
+        }
+      },
+      {
+        "data": {
+          "uri": "spotify:playlist:0DzfL3GWDGjEglyLeo8Xtb",
+          "name": "Global Citizen Festival 2023",
+          "description": "Get ready for Global Citizen Festival 2023 with some of our favorite songs from our performers! *Not the official setlist*",
+          "images": {
+            "items": [
+              {
+                "sources": [
+                  {
+                    "url": "https://i.scdn.co/image/ab67706c0000da84ad3492286fd42e7f58c0b904",
+                    "width": null,
+                    "height": null
+                  }
+                ]
+              }
+            ]
+          },
+          "owner": {
+            "name": "Global Citizen",
+            "uri": "spotify:user:glblctzn",
+            "username": "glblctzn"
+          }
+        }
+      },
+      {
+        "data": {
+          "uri": "spotify:playlist:37i9dQZF1DWUS3jbm4YExP",
+          "name": "Global Groove",
+          "description": "Groovy sounds from around the world.",
+          "images": {
+            "items": [
+              {
+                "sources": [
+                  {
+                    "url": "https://i.scdn.co/image/ab67706f00000002fba8f45c38b38153a27ff4d2",
+                    "width": null,
+                    "height": null
+                  }
+                ]
+              }
+            ]
+          },
+          "owner": {
+            "name": "Spotify",
+            "uri": "spotify:user:spotify",
+            "username": "spotify"
+          }
+        }
+      },
+      {
+        "data": {
+          "uri": "spotify:playlist:1ufIlRIcC7ix2t1tXa4l1B",
+          "name": "Global",
+          "description": "",
+          "images": {
+            "items": [
+              {
+                "sources": [
+                  {
+                    "url": "https://mosaic.scdn.co/640/ab67616d00001e020fdf17f710d749c816b29d52ab67616d00001e022ebb5ef92299f3bbed1deaf1ab67616d00001e0238c5f997c58711af3c10e757ab67616d00001e02c04c1e902d18d2a23b07674d",
+                    "width": 640,
+                    "height": 640
+                  },
+                  {
+                    "url": "https://mosaic.scdn.co/300/ab67616d00001e020fdf17f710d749c816b29d52ab67616d00001e022ebb5ef92299f3bbed1deaf1ab67616d00001e0238c5f997c58711af3c10e757ab67616d00001e02c04c1e902d18d2a23b07674d",
+                    "width": 300,
+                    "height": 300
+                  },
+                  {
+                    "url": "https://mosaic.scdn.co/60/ab67616d00001e020fdf17f710d749c816b29d52ab67616d00001e022ebb5ef92299f3bbed1deaf1ab67616d00001e0238c5f997c58711af3c10e757ab67616d00001e02c04c1e902d18d2a23b07674d",
+                    "width": 60,
+                    "height": 60
+                  }
+                ]
+              }
+            ]
+          },
+          "owner": {
+            "name": "Fm Records",
+            "uri": "spotify:user:fmrecords",
+            "username": "fmrecords"
+          }
+        }
+      },
+      {
+        "data": {
+          "uri": "spotify:playlist:74xeS6ZvCcVxT0KLCfVjRZ",
+          "name": "3D & GLOBAL",
+          "description": "SEVEN X160; 3D X60; SLOW DANCING &amp; LC X20  and BTS",
+          "images": {
+            "items": [
+              {
+                "sources": [
+                  {
+                    "url": "https://i.scdn.co/image/ab67706c0000da84509bb9ff1f970f6eeb6cdaed",
+                    "width": null,
+                    "height": null
+                  }
+                ]
+              }
+            ]
+          },
+          "owner": {
+            "name": "titi",
+            "uri": "spotify:user:31jw43oe2krdspdvyqvo62q3yd34",
+            "username": "31jw43oe2krdspdvyqvo62q3yd34"
+          }
+        }
+      },
+      {
+        "data": {
+          "uri": "spotify:playlist:37i9dQZF1DWVXBHEDDpqLs",
+          "name": "Global Club Music",
+          "description": "Take a world tour on the club floor. \nCover: DJ Swisha",
+          "images": {
+            "items": [
+              {
+                "sources": [
+                  {
+                    "url": "https://i.scdn.co/image/ab67706f00000002202237d8d14211d88a99eb83",
+                    "width": null,
+                    "height": null
+                  }
+                ]
+              }
+            ]
+          },
+          "owner": {
+            "name": "Spotify",
+            "uri": "spotify:user:spotify",
+            "username": "spotify"
+          }
+        }
+      },
+      {
+        "data": {
+          "uri": "spotify:playlist:153ifSNxLNuIEYiZso2puX",
+          "name": "Global Citizen Festival 2023",
+          "description": "Red Hot Chili Peppers, Ms. Lauryn Hill, Megan Thee Stallion, Conan, and Stray Kids",
+          "images": {
+            "items": [
+              {
+                "sources": [
+                  {
+                    "url": "https://i.scdn.co/image/ab67706c0000da847653b242aa2b31269d8f3193",
+                    "width": null,
+                    "height": null
+                  }
+                ]
+              }
+            ]
+          },
+          "owner": {
+            "name": "Kat V",
+            "uri": "spotify:user:katt091",
+            "username": "katt091"
+          }
+        }
+      },
+      {
+        "data": {
+          "uri": "spotify:playlist:2u2anpUoKHfRoUhiUyXz7y",
+          "name": "Global Hits - English",
+          "description": "",
+          "images": {
+            "items": [
+              {
+                "sources": [
+                  {
+                    "url": "https://mosaic.scdn.co/640/ab67616d00001e0223852b7ef0ecfe29d38d97eeab67616d00001e0232e4bffd94689ab199ecd1f0ab67616d00001e0277fdcfda6535601aff081b6aab67616d00001e0284c53fa832dfa265192419c5",
+                    "width": 640,
+                    "height": 640
+                  },
+                  {
+                    "url": "https://mosaic.scdn.co/300/ab67616d00001e0223852b7ef0ecfe29d38d97eeab67616d00001e0232e4bffd94689ab199ecd1f0ab67616d00001e0277fdcfda6535601aff081b6aab67616d00001e0284c53fa832dfa265192419c5",
+                    "width": 300,
+                    "height": 300
+                  },
+                  {
+                    "url": "https://mosaic.scdn.co/60/ab67616d00001e0223852b7ef0ecfe29d38d97eeab67616d00001e0232e4bffd94689ab199ecd1f0ab67616d00001e0277fdcfda6535601aff081b6aab67616d00001e0284c53fa832dfa265192419c5",
+                    "width": 60,
+                    "height": 60
+                  }
+                ]
+              }
+            ]
+          },
+          "owner": {
+            "name": "Patty",
+            "uri": "spotify:user:31libdaqfaipjv7l7l3uo2rq3bty",
+            "username": "31libdaqfaipjv7l7l3uo2rq3bty"
+          }
+        }
+      },
+      {
+        "data": {
+          "uri": "spotify:playlist:1s1SFYOmdcXYR5ld7RTtG7",
+          "name": "Global Hits",
+          "description": "The great hits all around the world",
+          "images": {
+            "items": [
+              {
+                "sources": [
+                  {
+                    "url": "https://i.scdn.co/image/ab67706c0000da847bf5e71f58200c7352303556",
+                    "width": null,
+                    "height": null
+                  }
+                ]
+              }
+            ]
+          },
+          "owner": {
+            "name": "Crona Giles",
+            "uri": "spotify:user:31yx57qdbkw3dvcxuuforw4mc5pe",
+            "username": "31yx57qdbkw3dvcxuuforw4mc5pe"
+          }
+        }
+      },
+      {
+        "data": {
+          "uri": "spotify:playlist:7v76bUgvbGEpdsbFfnh40S",
+          "name": "global",
+          "description": "",
+          "images": {
+            "items": [
+              {
+                "sources": [
+                  {
+                    "url": "https://i.scdn.co/image/ab67706c0000da84b1cbf6cc16bb5b5d9bbfab95",
+                    "width": null,
+                    "height": null
+                  }
+                ]
+              }
+            ]
+          },
+          "owner": {
+            "name": "zvvcki",
+            "uri": "spotify:user:forzahorizonhd",
+            "username": "forzahorizonhd"
+          }
+        }
+      },
+      {
+        "data": {
+          "uri": "spotify:playlist:5K3Vu3WnWmnJkHQP2HW25G",
+          "name": "Global music",
+          "description": "",
+          "images": {
+            "items": [
+              {
+                "sources": [
+                  {
+                    "url": "https://i.scdn.co/image/ab67706c0000da84e5256212647ee218bfa3de71",
+                    "width": null,
+                    "height": null
+                  }
+                ]
+              }
+            ]
+          },
+          "owner": {
+            "name": "🅜🅤🅢🅘🅒",
+            "uri": "spotify:user:2d61ogrmu2gnvkujixxutbr00",
+            "username": "2d61ogrmu2gnvkujixxutbr00"
+          }
+        }
+      },
+      {
+        "data": {
+          "uri": "spotify:playlist:1InS0bUxnZl6ZT7e0AtkZF",
+          "name": "Global",
+          "description": "",
+          "images": {
+            "items": [
+              {
+                "sources": [
+                  {
+                    "url": "https://i.scdn.co/image/ab67706c0000da84f1a384a31018564523f2ecd3",
+                    "width": null,
+                    "height": null
+                  }
+                ]
+              }
+            ]
+          },
+          "owner": {
+            "name": "jorian",
+            "uri": "spotify:user:jorianbell",
+            "username": "jorianbell"
+          }
+        }
+      },
+      {
+        "data": {
+          "uri": "spotify:playlist:2GWBqWIDaTzl6P8YbCVlo9",
+          "name": "Global 🌏🌘🪐☄️",
+          "description": "",
+          "images": {
+            "items": [
+              {
+                "sources": [
+                  {
+                    "url": "https://mosaic.scdn.co/640/ab67616d00001e025dd12107833d2e87aaadafb6ab67616d00001e0267ec7aafec60fd8536e79667ab67616d00001e029979723589ab30b8892249c8ab67616d00001e02de250b001e7e7c4ce9f54e59",
+                    "width": 640,
+                    "height": 640
+                  },
+                  {
+                    "url": "https://mosaic.scdn.co/300/ab67616d00001e025dd12107833d2e87aaadafb6ab67616d00001e0267ec7aafec60fd8536e79667ab67616d00001e029979723589ab30b8892249c8ab67616d00001e02de250b001e7e7c4ce9f54e59",
+                    "width": 300,
+                    "height": 300
+                  },
+                  {
+                    "url": "https://mosaic.scdn.co/60/ab67616d00001e025dd12107833d2e87aaadafb6ab67616d00001e0267ec7aafec60fd8536e79667ab67616d00001e029979723589ab30b8892249c8ab67616d00001e02de250b001e7e7c4ce9f54e59",
+                    "width": 60,
+                    "height": 60
+                  }
+                ]
+              }
+            ]
+          },
+          "owner": {
+            "name": "Adam Chungata",
+            "uri": "spotify:user:adamchungata",
+            "username": "adamchungata"
+          }
+        }
+      },
+      {
+        "data": {
+          "uri": "spotify:playlist:7boBAZVJ9VbkyJ3CBiRZAo",
+          "name": "Global",
+          "description": "",
+          "images": {
+            "items": [
+              {
+                "sources": [
+                  {
+                    "url": "https://mosaic.scdn.co/640/ab67616d00001e0276a4577dd654bf457a4ad1f8ab67616d00001e027cb0c4f7761f6dd66aaca065ab67616d00001e028233d2124fcede8f9a834468ab67616d00001e02f46a9ad551acbdab8f72fd89",
+                    "width": 640,
+                    "height": 640
+                  },
+                  {
+                    "url": "https://mosaic.scdn.co/300/ab67616d00001e0276a4577dd654bf457a4ad1f8ab67616d00001e027cb0c4f7761f6dd66aaca065ab67616d00001e028233d2124fcede8f9a834468ab67616d00001e02f46a9ad551acbdab8f72fd89",
+                    "width": 300,
+                    "height": 300
+                  },
+                  {
+                    "url": "https://mosaic.scdn.co/60/ab67616d00001e0276a4577dd654bf457a4ad1f8ab67616d00001e027cb0c4f7761f6dd66aaca065ab67616d00001e028233d2124fcede8f9a834468ab67616d00001e02f46a9ad551acbdab8f72fd89",
+                    "width": 60,
+                    "height": 60
+                  }
+                ]
+              }
+            ]
+          },
+          "owner": {
+            "name": "Colin",
+            "uri": "spotify:user:31azn4qbukgsqbbywddedhds4qr4",
+            "username": "31azn4qbukgsqbbywddedhds4qr4"
+          }
+        }
+      }
+    ]
+  }
+}
